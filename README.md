@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Andres Garzon Maldonado</h1>
+<h1 align="center">Hi 👋, I'm Andres Garzon</h1>
 <h3 align="center">I’am a Software Developer I can help you build a product, feature or website. Look through some of my work and experience!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andgarzonmal&label=Profile%20views&color=0e75b6&style=flat" alt="andgarzonmal" /> </p>
